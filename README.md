@@ -1,8 +1,7 @@
 # Pass-solution-architect-exam
 This tips will guide you on how to pass your solution architect exams
 
-That sounds like a fantastic idea for a YouTube video, Lavet! Sharing your experience and 
-tips can be incredibly helpful for others preparing for the AWS Solution Architect exam. Here are some real-time topics and resources you can include in your video:
+This is my personal experience 
 
 ### Real-Time Topics for AWS Solution Architect Repository
 1. **Compute Services**: Auto-scaling, EC2 instances, Lambda functions.
